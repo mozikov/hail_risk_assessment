@@ -1,0 +1,102 @@
+\begin{thebibliography}{10}
+
+\bibitem{brenowitz2020machine}
+Noah~D Brenowitz, Brian Henn, Jeremy McGibbon, Spencer~K Clark, Anna Kwa,
+  W~Andre Perkins, Oliver Watt-Meyer, and Christopher~S Bretherton.
+\newblock Machine learning climate model dynamics: Offline versus online
+  performance.
+\newblock {\em arXiv preprint arXiv:2011.03081}, 2020.
+
+\bibitem{burke2020calibration}
+Amanda Burke, Nathan Snook, David~John Gagne~II, Sarah McCorkle, and Amy
+  McGovern.
+\newblock Calibration of machine learning--based probabilistic hail predictions
+  for operational forecasting.
+\newblock {\em Weather and Forecasting}, 35(1):149--168, 2020.
+
+\bibitem{cai2019integrating}
+Yaping Cai, Kaiyu Guan, David Lobell, Andries~B Potgieter, Shaowen Wang, Jian
+  Peng, Tianfang Xu, Senthold Asseng, Yongguang Zhang, Liangzhi You, et~al.
+\newblock Integrating satellite and climate data to predict wheat yield in
+  australia using machine learning approaches.
+\newblock {\em Agricultural and forest meteorology}, 274:144--159, 2019.
+
+\bibitem{chase2022machine}
+Randy~J Chase, David~R Harrison, Amanda Burke, Gary~M Lackmann, and Amy
+  McGovern.
+\newblock A machine learning tutorial for operational meteorology, part i:
+  Traditional machine learning.
+\newblock {\em arXiv preprint arXiv:2204.07492}, 2022.
+
+\bibitem{chawla2002smote}
+Nitesh~V Chawla, Kevin~W Bowyer, Lawrence~O Hall, and W~Philip Kegelmeyer.
+\newblock Smote: synthetic minority over-sampling technique.
+\newblock {\em Journal of artificial intelligence research}, 16:321--357, 2002.
+
+\bibitem{choi2018development}
+Changhyun Choi, Jeonghwan Kim, Jongsung Kim, Donghyun Kim, Younghye Bae, and
+  Hung~Soo Kim.
+\newblock Development of heavy rain damage prediction model using machine
+  learning based on big data.
+\newblock {\em Advances in meteorology}, 2018, 2018.
+
+\bibitem{dollner2020geospatial}
+J{\"u}rgen D{\"o}llner.
+\newblock Geospatial artificial intelligence: Potentials of machine learning
+  for 3d point clouds and geospatial digital twins.
+\newblock {\em PFG--Journal of Photogrammetry, Remote Sensing and
+  Geoinformation Science}, 88(1):15--24, 2020.
+
+\bibitem{dorogush2018catboost}
+Anna~Veronika Dorogush, Vasily Ershov, and Andrey Gulin.
+\newblock Catboost: gradient boosting with categorical features support.
+\newblock {\em arXiv preprint arXiv:1810.11363}, 2018.
+
+\bibitem{dueben2018challenges}
+Peter~D Dueben and Peter Bauer.
+\newblock Challenges and design choices for global weather and climate models
+  based on machine learning.
+\newblock {\em Geoscientific Model Development}, 11(10):3999--4009, 2018.
+
+\bibitem{kelley2020using}
+Jason Kelley, Dalyn McCauley, G~Aaron Alexander, Wilton~F Gray, Rylie
+  Siegfried, Holly~J Oldroyd, et~al.
+\newblock Using machine learning to integrate on-farm sensors and
+  agro-meteorology networks into site-specific decision support.
+\newblock {\em Transactions of the ASABE}, 63(5):1427--1439, 2020.
+
+\bibitem{kothur2014interactive}
+Patrick K{\"o}thur, Mike Sips, Andrea Unger, Julian Kuhlmann, and Doris
+  Dransch.
+\newblock Interactive visual summaries for detection and assessment of
+  spatiotemporal patterns in geospatial time series.
+\newblock {\em Information Visualization}, 13(3):283--298, 2014.
+
+\bibitem{Krauss2007}
+T.~W. Krauss, A.~A. Sinkevich, N.~E. Veremey, Yu.~A. Dovgalyuk, and V.~D.
+  Stepanenko.
+\newblock Study of the development of an extremely high cumulonimbus cloud
+  (andhra pradesh, india, september 28, 2004).
+\newblock {\em Russian Meteorology and Hydrology}, 32(1):19--27, Jan 2007.
+
+\bibitem{hailform}
+NSSL.
+\newblock Nssl's hail research, 2020.
+
+\bibitem{PREIN201810}
+Andreas~F. Prein and Greg~J. Holland.
+\newblock Global estimates of damaging hail hazard.
+\newblock {\em Weather and Climate Extremes}, 22:10--23, 2018.
+
+\bibitem{haillosses}
+Verisk.
+\newblock The hail hazard and its impact on property insurance.
+\newblock 2020.
+
+\bibitem{watson2021machine}
+Duncan Watson-Parris.
+\newblock Machine learning for weather and climate are worlds apart.
+\newblock {\em Philosophical Transactions of the Royal Society A},
+  379(2194):20200098, 2021.
+
+\end{thebibliography}
